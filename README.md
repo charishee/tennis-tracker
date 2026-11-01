@@ -5,6 +5,16 @@ Ultimately, I'm going to build a website to track all this information, but for 
 
 As a tennis player, I play a lot of matches and shorter games, and there's no one-place stop to log my matches and track my goals. Because of this, I'm making a comprehensive way to track my tournament and outside matches since not all of them get logged to UTR, and it'd be helpful to have a system in place to do so. 
 
+## MVP Scope
+Step 1: Set up Git repo and development environment
+Step 2: Create the match data model
+Step 3: Add Jackson JSON file storage engine
+Step 4: Build a raw string score validator
+Step 5: Integrate Picocli base command structure
+Step 6: Implement the 'add match' command
+Step 7: Implement the 'list matches' command
+Step 8: Test the program
+
 ## How It Works
 
 - (insert bullet points later)
