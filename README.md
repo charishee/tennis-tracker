@@ -8,7 +8,9 @@ As a tennis player, I play a lot of matches and shorter games, and there's no on
 ## How It Works
 
 - (insert bullet points later)
-![[Tools Final Project Flowchart.drawio.png]]
+  
+<img width="1372" height="551" alt="Tools Final Project Flowchart drawio" src="https://github.com/user-attachments/assets/1ac73e6e-ed36-4e7f-ba27-e02398ba7c11" />
+
 
 ## Tech Stack
 
@@ -39,7 +41,10 @@ cd tennis-tracker
 - gamify it!
 - mark whether it was completed or not
 - calendar view for matches - both to see past matches and also schedule reminders for new ones
-![[Tools Final Project - Eisenhower Matrix.pdf]]
+  
+[Tools Final Project  - Eisenhower Matrix.pdf](https://github.com/user-attachments/files/34308938/Tools.Final.Project.-.Eisenhower.Matrix.pdf)
+
+
 ## Author
 
 Charishee Modgil
